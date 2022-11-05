@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
+</div><br />
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
