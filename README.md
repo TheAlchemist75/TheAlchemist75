@@ -25,10 +25,10 @@
   </h1>
 </div>
 
-<!-- <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038458448871956500/profile2.gif" width="500" height="300"/>
-</div> -->
-
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038451766620069888/profile1.gif" width="500" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038458448871956500/profile2.gif" width="500" height="300"/>
 </div>
+
+<!-- <div align="center">
+  <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038451766620069888/profile1.gif" width="500" height="300"/>
+</div> -->
