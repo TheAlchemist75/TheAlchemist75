@@ -11,6 +11,9 @@
   </a>
   <a href="https://steamcommunity.com/profiles/76561199066034491/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
-  </a><\n>
+  </a>
+</div>
+
+<div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheAlchemist75&style=flat-square&color=blue" alt=""/>
 </div>
