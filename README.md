@@ -16,4 +16,9 @@
 
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheAlchemist75&style=flat-square&color=blue" alt=""/>
-</div>
+</div><br/>
+
+<h1>
+  hey there
+  <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038451766620069888/profile1.gif" width="30px"/>
+</h1>
