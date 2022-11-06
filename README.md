@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038458448871956500/profile2.gif" width="500" height="300"/>
 </div>
----
+<hr/>
 
 ### :man_technologist: About Me :
 A web developer and a casual gamer, interested in web development, app development adn web3 but focusing on full-stack web development right now.
@@ -42,5 +42,5 @@ A web developer and a casual gamer, interested in web development, app developme
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlchemist75&theme=dark)](https://git.io/streak-stats)
+<!-- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlchemist75&theme=dark)](https://git.io/streak-stats) -->
