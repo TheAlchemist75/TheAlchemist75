@@ -39,6 +39,8 @@ A web developer and a casual gamer, interested in web development, app developme
 
 - :zap: Playing video games or outdoor sports is one of my favorite pastime activities in my free time. I also enjoy working on my projects, learning various web development concepts, and hitting the gym.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-manur-629006194/)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlchemist75&theme=dark)](https://git.io/streak-stats)
