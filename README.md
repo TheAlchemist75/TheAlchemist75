@@ -40,7 +40,7 @@ A web developer and a casual gamer, interested in web development, app developme
 - :zap: Playing video games or outdoor sports is one of my favorite pastime activities in my free time. I also enjoy learning various web development concepts, coding, sketching and hitting the gym.
 
 - :mailbox:How to reach me: <a href="mailto:Shubhammanur0075@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" align="center"/>
   </a>
 <!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlchemist75&theme=dark)](https://git.io/streak-stats) -->
