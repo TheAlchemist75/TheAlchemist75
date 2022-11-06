@@ -31,7 +31,7 @@
 <hr/>
 
 ### :man_technologist: About Me :
-A web developer and a casual gamer, interested in web development, app development adn web3 but focusing on full-stack web development right now.
+A web developer and a casual gamer, interested in web development, app development and web3 but focusing on full-stack web development right now.
 
 - :telescope: Aspiring to be a full-stack web developer.
 
