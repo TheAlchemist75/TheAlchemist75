@@ -61,8 +61,6 @@ A web developer and a casual gamer, interested in web development, app developme
 <hr/>
 
 ### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TheAlchwmist75)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlchemist75&theme=dark)](https://git.io/streak-stats) -->
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlchemist75&theme=dark)](https://git.io/streak-stats)
+</div>
