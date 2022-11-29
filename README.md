@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/913766008081244183/1038458448871956500/profile2.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 <hr/>
 
