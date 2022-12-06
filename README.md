@@ -32,7 +32,7 @@ Interested in web development, app development and web3 technologies, but focusi
 
 - :seedling: Exploring new domains.
 
-- :zap: Playing video games or outdoor sports are my favorite pastime activities. I also enjoy learning various web development concepts, coding, sketching and hitting the gym.
+- :zap: Playing video games and outdoor sports are my favorite pastime activities. I also enjoy travelling/exploring new places, sketching and hitting the gym.
 
 - :mailbox:How to reach me: <a href="mailto:Shubhammanur0075@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" align="center"/>
