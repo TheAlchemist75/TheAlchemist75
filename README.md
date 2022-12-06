@@ -26,13 +26,13 @@
 <hr/>
 
 ### :man_technologist: About Me :
-Interested in web development, app development and web3, but focusing on full-stack web development at the moment.
+Interested in web development, app development and web3 technologies, but focusing on full-stack web development at the moment.
 
 - :telescope: Aspiring to be a full-stack web developer.
 
 - :seedling: Exploring new domains.
 
-- :zap: Playing video games or outdoor sports is one of my favorite pastime activities in my free time. I also enjoy learning various web development concepts, coding, sketching and hitting the gym.
+- :zap: Playing video games or outdoor sports are my favorite pastime activities. I also enjoy learning various web development concepts, coding, sketching and hitting the gym.
 
 - :mailbox:How to reach me: <a href="mailto:Shubhammanur0075@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" align="center"/>
