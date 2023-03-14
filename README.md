@@ -1,4 +1,4 @@
-<div id="header" align="center"><img src="https://giphy.com/gifs/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="100"/></div><br />
+<div id="header" align="center"><img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="100"/></div><br />
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
