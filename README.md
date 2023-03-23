@@ -1,4 +1,4 @@
-<div id="header" align="center"><img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="100"/></div><br />
+<div id="header" align="center"><img src="https://res.cloudinary.com/dcprg19es/image/upload/v1679591071/github-top_fjsftg.webp" width="100"/></div><br />
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+  <img src="https://res.cloudinary.com/dcprg19es/image/upload/v1679591073/github-bottom_y1f1zg.webp" width="500" height="300"/>
 </div>
 <hr/>
 
