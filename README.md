@@ -20,11 +20,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dcprg19es/image/upload/v1679591073/github-bottom_y1f1zg.webp" width="500" height="300"/>
-</div>
-<hr/>
-
 ### :man_technologist: About Me :
 Interested in web development, app development and web3 technologies, but focusing on full-stack web development at the moment.
 
