@@ -1,4 +1,12 @@
-<div id="header" align="center"><img src="https://res.cloudinary.com/dcprg19es/image/upload/v1679591071/github-top_fjsftg.webp" width="100"/></div><br />
+<div id="header" align="center">
+  <img src="https://res.cloudinary.com/dcprg19es/image/upload/v1679591071/github-top_fjsftg.webp" width="100"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&center=true&vCenter=true&width=500&height=50&color=58a6ff&lines=Hello+there!+👋;My+name+is+Shubham;I'm+a+Web+Developer" alt="Typing SVG" />
+</div>
+
+<br />
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
@@ -9,16 +17,18 @@
   </a>
 </div>
 
+<br />
+
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAlchemist75&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=TheAlchemist75&style=flat-square&color=blue" alt="Views"/>
 </div>
 
-<div align="center">
-  <h1>
-    Hello there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<br />
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:0d1117&height=4" style="width:100%;" />
+</p>
 
 ### :man_technologist: About Me :
 Focused on building full-stack web applications using React, Node.js, and modern JavaScript/TypeScript ecosystems.
