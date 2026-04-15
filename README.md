@@ -8,17 +8,6 @@
 
 <br />
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shubham-manur-629006194/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:Shubhammanur0075@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-
-<br />
-
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheAlchemist75&style=flat-square&color=blue" alt="Views"/>
 </div>
@@ -39,9 +28,8 @@ Focused on building full-stack web applications using React, Node.js, and modern
 
 - :zap: Playing video games and outdoor sports are my favorite pastime activities. I also enjoy travelling/exploring new places, sketching and hitting the gym.
 
-- :mailbox:How to reach me: <a href="mailto:Shubhammanur0075@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" align="center"/>
-  </a>
+- :mailbox:How to reach me: <a href="mailto:Shubham.manur@proton.me">
+<img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="Email Badge" align="center"/>  </a>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:0d1117&height=4" style="width:100%;" />
