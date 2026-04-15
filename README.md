@@ -21,30 +21,32 @@
 </div>
 
 ### :man_technologist: About Me :
-Interested in web development, app development and web3 technologies, but focusing on full-stack web development at the moment.
+Focused on building full-stack web applications using React, Node.js, and modern JavaScript/TypeScript ecosystems.
 
-- :telescope: Aspiring to be a full-stack web developer.
+- :telescope: Aspiring to be a full-stack engineer with production-level experience.
 
-- :seedling: Exploring new domains.
+- :seedling: Exploring Web3 and new technologies.
 
 - :zap: Playing video games and outdoor sports are my favorite pastime activities. I also enjoy travelling/exploring new places, sketching and hitting the gym.
 
 - :mailbox:How to reach me: <a href="mailto:Shubhammanur0075@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" align="center"/>
   </a>
-<hr/>
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:0d1117&height=4" style="width:100%;" />
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJs" alt="ReactJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40">
-</div>
-<hr/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" title="HTML" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" title="CSS" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="42" title="TypeScript" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" title="React" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" title="PHP" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" title="MySQL" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" title="Figma" style="margin:8px; padding:8px; background:#161b22; border-radius:10px;" />
+</p>
